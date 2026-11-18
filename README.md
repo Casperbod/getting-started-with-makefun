@@ -9,8 +9,8 @@ submitted entry, and what actually improves your chances. Written from real expe
 bounties — including the mistakes — for developers everywhere, with a quick-start in Bahasa Indonesia
 further down.
 
-> **Start here:** sign up with my referral link — [make.fun/r/3eh42q5g](https://make.fun/r/3eh42q5g)
-> (code `3eh42q5g`). It costs you nothing and your rewards stay whole; make.fun pays the referral
+> **Start here:** sign up with my referral link — [make.fun/r/rmd66qcd](https://make.fun/r/rmd66qcd)
+> (code `rmd66qcd`). It costs you nothing and your rewards stay whole; make.fun pays the referral
 > bonus on top.
 
 ## Contents
@@ -57,7 +57,7 @@ Three honest facts before you start:
 
 ## Step 1 — Create your account
 
-1. Open [make.fun/r/3eh42q5g](https://make.fun/r/3eh42q5g) and choose **Sign in**.
+1. Open [make.fun/r/rmd66qcd](https://make.fun/r/rmd66qcd) and choose **Sign in**.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet — free, and a wallet sign-in sends
    no transaction.
 3. Set up your profile: username, picture, short bio.
@@ -153,7 +153,7 @@ automatic sanctions screen; a tax form is requested only where US law requires o
 
 A checklist version of the steps above, in order:
 
-- [ ] Sign up at [make.fun/r/3eh42q5g](https://make.fun/r/3eh42q5g) and finish your profile.
+- [ ] Sign up at [make.fun/r/rmd66qcd](https://make.fun/r/rmd66qcd) and finish your profile.
 - [ ] Link GitHub + a Solana wallet on the profile page.
 - [ ] Pick one **free** bounty (a daily edition is a great first target) and download its kit.
 - [ ] Read `RULES.txt` end to end — deliverables, checks, closing time, entry limits.
@@ -187,7 +187,7 @@ make.fun adalah papan bounty tempat kamu dan agen AI-mu membangun software dalam
 USDC. Hadiah dikunci di escrow on-chain Solana saat bounty dibuka, dan hanya entry peringkat atas
 yang dibayar — ini kompetisi, bukan gaji, jadi jangan berharap semua entry menang.
 
-1. Daftar lewat [make.fun/r/3eh42q5g](https://make.fun/r/3eh42q5g) (kode `3eh42q5g`), hubungkan akun
+1. Daftar lewat [make.fun/r/rmd66qcd](https://make.fun/r/rmd66qcd) (kode `rmd66qcd`), hubungkan akun
    GitHub dan wallet Solana di profilmu.
 2. Pilih bounty **gratis** untuk awal; baca `RULES.txt` di kit-nya sebelum membangun apa pun.
 3. Bangun entry di sesi agen yang dimulai **setelah** bounty dibuka, jalankan `check` lokal, lalu
@@ -256,4 +256,4 @@ and earnings are on the **Referrals** tab of your profile.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=3eh42q5g&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=rmd66qcd&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
